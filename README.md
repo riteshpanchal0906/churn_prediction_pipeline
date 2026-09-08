@@ -851,7 +851,7 @@ See the `LICENSE` file for more information.
 
 🔗 **LinkedIn**
 
-https://www.linkedin.com/in/ritesh-panchal-1231-a381/
+https://www.linkedin.com/in/ritesh-panchal-12310a381/
 
 💻 **GitHub**
 
