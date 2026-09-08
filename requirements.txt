@@ -1,0 +1,20 @@
+# Core
+pandas==2.2.2
+numpy==2.5.1
+scipy>=1.11.0
+
+# ML
+scikit-learn==1.9.0
+xgboost==3.3.0
+imbalanced-learn==0.12.4
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==5.22.0
+
+# Utilities
+joblib==1.4.2
+
+# App
+streamlit
