@@ -648,7 +648,7 @@ def main():
                                                  ["No", "Yes", "No internet service"],
                                                  index=["No", "Yes", "No internet service"].index(defaults['streaming_movies']))
 
-            submitted = st.form_submit_button("🔮 Predict Churn", use_container_width=True)
+            submitted = st.form_submit_button("🔮 Predict Churn", width='stretch')
 
     st.markdown("---")
     st.header("🎯 Prediction Results")
